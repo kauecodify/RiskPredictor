@@ -1,6 +1,6 @@
 # Análise de Risco de Inadimplência
 
-Este projeto usa aprendizado de máquina para prever o risco de inadimplência de um cliente com base em dados financeiros como renda, idade, histórico de crédito e dívida atual. A aplicação é feita utilizando a biblioteca `Tkinter` para a interface gráfica, o `RandomForestClassifier` para a modelagem e `seaborn` para a visualização de dados e a matriz de confusão.
+Este projeto usa aprendizado de máquina para prever o risco de inadimplência de um cliente com base em dados financeiros como renda, idade, histórico de crédito e dívida atual. A aplicação é feita utilizando a biblioteca `Tkinter` para a interface gráfica, o `RandomForestClassifier` para a modelagem e `seaborn` para a visualização de dados e a matriz de confusão, a cada novo dado computado a `LLM` é treinada para melhoria da matriz de confusão.
 
 ## Funcionalidades
 
